@@ -1,0 +1,36 @@
+.banner {
+    height: 600px;
+    background: url("../../../assets/homeBg.jpg") no-repeat center center/cover;
+}
+
+.play-btn {
+    margin-top: 350px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-color: white;
+    height: 40px;
+}
+
+.play-btn:hover {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.info-btn {
+    margin-top: 350px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    border-color: white;
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.info-btn:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    border-color: rgba(0, 0, 0, 1);
+}

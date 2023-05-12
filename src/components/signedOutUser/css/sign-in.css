@@ -1,0 +1,51 @@
+.card {
+    margin: 0 auto;
+    height: 600px;
+
+}
+
+.sign-in-page {
+    background: url("../../../assets/homeBg.jpg") no-repeat center center/cover;
+}
+
+.sign-in-footer {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 250px;
+    margin-top: 100px;
+}
+
+.signin-header {
+    margin: 0 35px;
+}
+
+.card-body {
+    color: rgb(247, 233, 233);
+
+    margin: 0 auto;
+    width: 20rem;
+}
+
+.sign-in-form input {
+    height: 50px;
+    background-color: rgb(54, 50, 50);
+    border-color: rgb(54, 50, 50);
+    color: white;
+    border-bottom-color: orange;
+    border-bottom-width: 2px;
+}
+
+.sign-in-form input::placeholder {
+
+    color: white
+}
+
+.btn {
+    background-color: red;
+    color: white;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+}
